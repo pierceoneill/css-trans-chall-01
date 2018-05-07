@@ -1,0 +1,14 @@
+img {
+	margin: 50px;
+    transition-property: width, height;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+ 
+}
+
+img:hover {
+    width: 290px;
+    height: 402px;
+    
+}
